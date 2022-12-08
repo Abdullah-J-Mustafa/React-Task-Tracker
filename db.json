@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctors Appointment",
+      "day": "Feb 20th at 2:45 PM",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Hair Appointment",
+      "day": "Feb 20th at 5:00 PM",
+      "reminder": true
+    },
+    {
+      "text": "Get medicines",
+      "day": "Feb 20th at 8:45 PM",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "Sleep",
+      "day": "Feb 20th at 10:00 PM",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "text": "Wake Up",
+      "day": "Feb 21st at 5:00 AM",
+      "reminder": true,
+      "id": 5
+    }
+  ]
+}
